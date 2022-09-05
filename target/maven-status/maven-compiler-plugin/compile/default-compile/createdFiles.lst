@@ -1,0 +1,11 @@
+com\courzelo_for_business\job_offers\repositories\JobOffersRepository.class
+com\courzelo_for_business\job_offers\entities\JobOffers.class
+com\courzelo_for_business\job_offers\controllers\JobOffersController.class
+com\courzelo_for_business\job_offers\entities\Business.class
+com\courzelo_for_business\job_offers\apirest\JobOffersRestAPI.class
+com\courzelo_for_business\job_offers\businesses\iservices\IServiceJobOffers.class
+com\courzelo_for_business\job_offers\JobOffersApplication.class
+com\courzelo_for_business\job_offers\servicerest\JobOffersRestService.class
+com\courzelo_for_business\job_offers\config\BeanConfig.class
+com\courzelo_for_business\job_offers\entities\dtos\JobOffersDTO.class
+com\courzelo_for_business\job_offers\servicerest\iservicesrest\IServiceRestJobOffers.class

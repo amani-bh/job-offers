@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Job_Offers
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.courzelo.courzelo_for_business.job_offer
+ s
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://spring.io/projects/spring-boot/Job_Offers
+Created-By: Maven Integration for Eclipse
+
